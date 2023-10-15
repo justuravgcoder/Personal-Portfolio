@@ -94,12 +94,12 @@ li::marker {
 }
 
 a {
-  color: black;
+  color: white;
   text-decoration: none;
 }
 
 a:hover {
-  color: #4e567e;
+  color: lime;
 }
 
 .container {
